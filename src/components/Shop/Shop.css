@@ -8,3 +8,15 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 }
+
+.btn-proceed {
+    background: #1b761b;
+    width: 90%;
+    height: 56px;
+    font-size: 18px;
+    margin: 10px auto;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
